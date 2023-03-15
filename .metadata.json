@@ -1,10 +1,10 @@
 [
   {
-    "package": "ptvapi",
+    "package": "lambdr",
     "oncran": true
   },
   {
-    "package": "lambdr",
+    "package": "ptvapi",
     "oncran": true
   }
 ]
