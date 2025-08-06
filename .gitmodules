@@ -8,3 +8,7 @@
 [submodule "ptvapi"]
 	path = ptvapi
 	url = https://github.com/mdneuzerling/ptvapi
+[submodule "webmockr"]
+	path = webmockr
+	url = https://github.com/ropensci/webmockr
+	registered = false

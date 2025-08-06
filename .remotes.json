@@ -1,0 +1,8 @@
+[
+  {
+    "package": "webmockr",
+    "url": "https://github.com/ropensci/webmockr",
+    "via": ["lambdr"],
+    "from": "lambdr"
+  }
+]
